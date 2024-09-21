@@ -1,0 +1,1 @@
+ G:\\2024\ projects\\Binul\\telescope_dbfixed\\telescope\\.dart_tool\\flutter_build\\fb8665b1f62f3f63ec0c4f08973c29f9\\native_assets.yaml: 

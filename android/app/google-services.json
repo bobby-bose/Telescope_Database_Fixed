@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901109232488",
+    "project_id": "astro-align",
+    "storage_bucket": "astro-align.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901109232488:android:099c55898dfd8b60081cdd",
+        "android_client_info": {
+          "package_name": "com.example.telescope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJCtS5hyNMaDVi4al5u8fZQSM2F_yIdDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
